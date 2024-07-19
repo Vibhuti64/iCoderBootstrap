@@ -20,6 +20,7 @@ Navigate to the project directory:
 bash
 Copy code
 cd iCoderBootstrap
+
 Open index.html in your preferred web browser to view the project.
 
 Template
@@ -29,17 +30,23 @@ HTML Structure:
 
 The index.html file contains the basic structure of the website.
 Modify the content within the <body> tags to customize the text, images, and other elements.
+
 CSS Styling:
 
 The styles.css file includes custom styles for the template.
 Adjust the styles as needed to match your branding or design preferences.
+
 Bootstrap Components:
 
 The template uses various Bootstrap components like navbars, cards, modals, and forms.
 Refer to the Bootstrap documentation for more details on how to use and customize these components.
 
 Features
+
 Responsive Design: Ensures compatibility across various devices and screen sizes.
+
 Bootstrap Integration: Utilizes Bootstrap for easy customization and consistent design elements.
+
 Modern UI Components: Includes cards, modals, forms, and more to enhance user experience.
+
 Clean and Modular Code: Structured and commented code for easy understanding and modification.
