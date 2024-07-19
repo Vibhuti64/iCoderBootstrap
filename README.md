@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Vubhuti64/iCoderBootstrap.git
+git clone https://github.com/Vibhuti64/iCoderBootstrap.git
 Navigate to the project directory:
 
 bash
